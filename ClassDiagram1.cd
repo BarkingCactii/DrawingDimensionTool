@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Drawing_Dimension_Tool.Area" Collapsed="true">
+    <Position X="3.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAgCAAAAAA=</HashCode>
+      <FileName>Units\Area.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Drawing_Dimension_Tool.Unit" Collapsed="true">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAAAAAIAAAACAAAAAAAAgAAAAAAAAAA=</HashCode>
+      <FileName>Units\Unit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Drawing_Dimension_Tool.Length" Collapsed="true">
+    <Position X="5.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAQAAAAAEAAAAAAAAAAAAAAAAgCAAAAAA=</HashCode>
+      <FileName>Units\Length.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Drawing_Dimension_Tool.Annotation" Collapsed="true">
+    <Position X="2.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAACAAAAAgAgAAAAIAAAACAAAAAEBAAIAIQQAQAAA=</HashCode>
+      <FileName>Annotation\Annotation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Drawing_Dimension_Tool.Polygon" Collapsed="true">
+    <Position X="2.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQIACAAAAAAAgAAAAIAAAAgAAIAAEBCAAAJQQEAAAA=</HashCode>
+      <FileName>Annotation\Polygon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Drawing_Dimension_Tool.Label" Collapsed="true">
+    <Position X="0.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAABAgghAAAIIAAAAgAAAAAEBIAAAISQEAEAA=</HashCode>
+      <FileName>Annotation\Label.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Drawing_Dimension_Tool.Line" Collapsed="true">
+    <Position X="5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAACAAABQgAgAAIAAAAgAAAAAEBAAAAIQQEACAg=</HashCode>
+      <FileName>Annotation\Line.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Drawing_Dimension_Tool.AnnotationList" Collapsed="true">
+    <Position X="1" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAACAAAAAgAAAAAACAAAAggAQAAEBAAAAAAQEAAAA=</HashCode>
+      <FileName>Annotations.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Tahoma" Size="10" />
+</ClassDiagram>
